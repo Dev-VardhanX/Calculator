@@ -2,7 +2,7 @@
 
 A clean, modern calculator application built with **Kotlin** and **Jetpack Compose**.
 
-> 💡 **Personal Milestone:** This project marks one of the very first milestones in my Android app development journey! It served as a hands-on exploration of Kotlin, modern declarative UI with Jetpack Compose, and foundational Android architecture.
+> 💡 **Personal Milestone:** This project was one of the very first milestones in my Android app development journey! It served as a hands-on exploration of Kotlin, modern declarative UI with Jetpack Compose, and foundational Android architecture.it was made in mid 2025  
 
 ---
 
@@ -75,3 +75,4 @@ app/src/main/java/com/example/calculator/
 ## 👤 Author
 
 - **Dev Vardhan** - [@Dev-VardhanX](https://github.com/Dev-VardhanX)
+
